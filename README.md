@@ -8,7 +8,7 @@
 - 🌱 Learning: **Advanced React, Node.js, mongodb**  
 - 👯 Looking to collaborate on: **Full-stack web apps and innovative solutions**  
 - 💼 Open to internships & exciting opportunities  
-- 📫 How to reach me: **[LinkedIn]([https://www.linkedin.com/in/rohan7003](https://www.linkedin.com/in/rohan-patil-88146525a/))** 
+- 📫 How to reach me: **(https://www.linkedin.com/in/rohan-patil-88146525a/)** 
 
 ---
 
