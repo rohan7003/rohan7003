@@ -8,7 +8,7 @@
 - 🌱 Learning: **Advanced React, Node.js, mongodb**  
 - 👯 Looking to collaborate on: **Full-stack web apps and innovative solutions**  
 - 💼 Open to internships & exciting opportunities  
-- 📫 How to reach me: **(https://www.linkedin.com/in/rohan-patil-88146525a/)** 
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rohan-patil-88146525a/)
 
 ---
 
@@ -39,10 +39,10 @@
   <a href="https://www.linkedin.com/in/rohan-patil-88146525a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:rohanrpatil7003@gmail.com">
+ <a href="mailto:rohanrpatil7003@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-  <a href="(https://x.com/RohanPatil30831)" target="_blank">
+  <a href="https://x.com/RohanPatil30831" target="_blank">
   <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
 </a>
 </p>
