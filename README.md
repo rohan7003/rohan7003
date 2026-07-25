@@ -4,8 +4,8 @@
 ---
 
 ### 👨‍💻 About Me  
-- 🔭 Currently working on: **MERN projects**  
-- 🌱 Learning: **Advanced React, Node.js, mongodb**  
+- 🔭 Currently working on: **JAVA projects**  
+- 🌱 Learning: **MICROSERVICES, DOCKER, KUBERNETES**  
 - 👯 Looking to collaborate on: **Full-stack web apps and innovative solutions**  
 - 💼 Open to internships & exciting opportunities  
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rohan-patil-88146525a/)
