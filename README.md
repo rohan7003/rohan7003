@@ -8,9 +8,6 @@ Java Full Stack Developer | Spring Boot | React | MySQL | REST APIs
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Java+Full+Stack+Developer;Spring+Boot+Developer;REST+API+Developer;React+Developer;Learning+Microservices+%26+Cloud" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rohan7003&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
-</p>
 
 ---
 
