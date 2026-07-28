@@ -20,13 +20,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rohan7003&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</p>
-
----
 
 ## 📊 GitHub Stats & Activity
 
@@ -35,9 +28,6 @@
   <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rohan7003&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohan7003&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
 
 ---
 
