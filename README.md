@@ -69,7 +69,7 @@ A role-based web application where users can browse and rate stores while admini
 # 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=rohan7003&theme=github-dark-blue&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=rohan7003&theme=github-dark-blue&hide_border=true&cache_seconds=3600" />
 </p>
 
 ---
